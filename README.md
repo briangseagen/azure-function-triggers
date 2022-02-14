@@ -1,0 +1,1 @@
+# Root depot for the Azure Trigger Projects
