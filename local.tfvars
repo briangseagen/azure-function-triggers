@@ -1,6 +1,6 @@
 default_region       = "USWest2"
 environment          = "dev"
-app_name             = "queuetrigger"
+app_name             = "eventtrigger"
 gh_token             = "SET AS ENV VARIABLE"
 service_plan         = "api-appserviceplan-consumption"
 storage_account_name = "storageaccount"

@@ -39,7 +39,7 @@ module "functionapp" {
   service_plan_name    = var.service_plan
   function_app_name    = var.app_name
   repo_url             = "https://github.com/briangseagen/azure-function-triggers"
-  branch               = "http-trigger-node"
+  branch               = "event-trigger-node"
   token                = var.gh_token
   tags                 = local.tags
 }
